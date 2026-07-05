@@ -1,0 +1,1033 @@
+{
+  "personal": {
+    "name": "Niharika Kumari",
+    "firstName": "Niharika",
+    "lastName": "Kumari",
+    "title": "PhD Research Scholar",
+    "designation": "Doctoral Candidate",
+    "department": "Department of Biotechnology",
+    "institution": "National Institute of Technology Durgapur",
+    "university": "NIT Durgapur",
+    "location": "Durgapur, West Bengal, India",
+    "email": "niharikasinghoffline3@gmail.com",
+    "phone": "+91-XXXXXXXXXX",
+    "profileImage": "images/gallery/profilepic.png",
+    "profileImageAlt": "Niharika Kumari — PhD Research Scholar, NIT Durgapur",
+    "tagline": "Bridging Environment, Biology & Human Health",
+    "researchFocus": "Biotechnology & Bioprocess | Environmental Sciences | Network Biology | Bibliometrics",
+    "typingTexts": [
+      "PhD Research Scholar",
+      "Biotechnology Researcher",
+      "Environmental Scientist",
+      "Network Biologist",
+      "Bioprocess Enthusiast",
+      "Interdisciplinary Scientist"
+    ],
+    "heroButtons": [
+      { "label": "Download CV",        "icon": "fas fa-download",  "action": "resume",       "style": "primary"   },
+      { "label": "View Publications",  "icon": "fas fa-book-open", "action": "publications", "style": "secondary" },
+      { "label": "Contact Me",         "icon": "fas fa-envelope",  "action": "contact",      "style": "outline"   }
+    ],
+    "metaDescription": "Niharika Kumari — PhD Research Scholar at NIT Durgapur working at the intersection of biotechnology, environmental sciences, and human health using network biology and bibliometric analysis.",
+    "metaKeywords": "Niharika Kumari, PhD, NIT Durgapur, Biotechnology, Bioprocess, Environmental Sciences, Network Biology, VOSviewer, RStudio, Research Scholar"
+  },
+
+  "about": {
+    "biography": "I am a doctoral candidate at the National Institute of Technology Durgapur, specialising in biotechnology and bioprocess research. My academic journey spans some of India's finest institutions — from Banaras Hindu University, where I built my foundation in botany and plant biology, to Jawaharlal Nehru University, New Delhi, where I deepened my understanding of environmental sciences.\n\nMy current doctoral research explores the intersection of environmental stressors, biological processes, and human health — a theme that demands rigorous analytical tools alongside innovative experimental approaches. I am proficient in VOSviewer for bibliometric and knowledge-mapping analysis, Network Biology methods for understanding complex biological interactions, and RStudio for statistical modelling and data visualisation.\n\nI am driven by the belief that the most meaningful scientific advances emerge from interdisciplinary collaboration. I actively seek academic partnerships and funding-driven research opportunities that address pressing environmental and biological challenges with tangible translational impact.",
+    "researchVision": "My vision is to decode how environmental stressors perturb biological networks and accelerate disease — connecting molecular-level mechanisms to population-scale health outcomes. By integrating experimental biology with computational tools, I aim to generate actionable insights that inform both policy and therapeutic strategies.",
+    "researchPhilosophy": "Rigorous science, open collaboration, and translational intent. I believe that meaningful research must speak across disciplines — drawing from botany, environmental science, and biotechnology simultaneously — and must ultimately serve human and ecological wellbeing.",
+    "researchObjectives": [
+      "Investigate the molecular mechanisms by which environmental stressors disrupt biological processes",
+      "Apply network biology approaches to map stress-response pathways in living systems",
+      "Use bibliometric analysis (VOSviewer) to identify research gaps and emerging trends in biotechnology",
+      "Develop bioprocess strategies that harness biological responses to environmental stimuli",
+      "Build interdisciplinary frameworks linking environmental science data with human health outcomes"
+    ],
+    "currentWork": "Currently pursuing my doctoral thesis at the Department of Biotechnology, NIT Durgapur, focused on the bioprocess and biological dimensions of environmental stress. I am actively leveraging VOSviewer for systematic literature mapping, RStudio for multivariate data analysis, and network biology tools to model stress-response interactions."
+  },
+
+  "statistics": [
+    { "id": "years",        "label": "Years of Research",  "value": 4,  "icon": "fas fa-flask",          "suffix": "+"  },
+    { "id": "publications", "label": "Publications",        "value": 3,  "icon": "fas fa-book",           "suffix": ""   },
+    { "id": "conferences",  "label": "Conferences",         "value": 4,  "icon": "fas fa-microphone",     "suffix": "+"  },
+    { "id": "projects",     "label": "Projects",            "value": 3,  "icon": "fas fa-project-diagram","suffix": ""   },
+    { "id": "institutions", "label": "Institutions",        "value": 3,  "icon": "fas fa-university",     "suffix": ""   },
+    { "id": "awards",       "label": "Awards",              "value": 2,  "icon": "fas fa-trophy",         "suffix": "+"  },
+    { "id": "tools",        "label": "Analytical Tools",   "value": 5,  "icon": "fas fa-tools",          "suffix": "+"  },
+    { "id": "cities",       "label": "Cities Studied In",  "value": 3,  "icon": "fas fa-map-marker-alt", "suffix": ""   }
+  ],
+
+  "education": [
+    {
+      "id": "phd",
+      "degree": "Doctor of Philosophy (PhD)",
+      "field": "Biotechnology",
+      "institution": "National Institute of Technology Durgapur",
+      "university": "NIT Durgapur",
+      "location": "Durgapur, West Bengal, India",
+      "duration": "2022 – Present",
+      "startYear": 2022,
+      "endYear": null,
+      "status": "Ongoing",
+      "cgpa": null,
+      "thesis": "Exploring the Intersection of Environmental Stressors, Biological Processes, and Human Health (Tentative)",
+      "supervisor": "To be updated",
+      "achievements": [
+        "Pursuing doctoral research in Biotechnology & Bioprocess",
+        "Proficient in VOSviewer, Network Biology, and RStudio",
+        "Open to interdisciplinary collaborations and funded research"
+      ],
+      "coursework": ["Biotechnology", "Bioprocess Engineering", "Environmental Biology", "Network Biology", "Research Methodology"],
+      "logo": "images/nit-logo.png"
+    },
+    {
+      "id": "msc",
+      "degree": "Master of Science (M.Sc.)",
+      "field": "Environmental Sciences",
+      "institution": "Jawaharlal Nehru University",
+      "university": "JNU New Delhi",
+      "location": "New Delhi, India",
+      "duration": "2020 – 2022",
+      "startYear": 2020,
+      "endYear": 2022,
+      "status": "Completed",
+      "cgpa": null,
+      "thesis": "To be updated",
+      "supervisor": "To be updated",
+      "achievements": [
+        "Studied at one of India's premier research universities",
+        "Strong foundation in environmental science and ecological systems"
+      ],
+      "coursework": ["Environmental Science", "Ecology", "Environmental Chemistry", "Climate Change", "Research Methods"],
+      "logo": "images/jnu-logo.png"
+    },
+    {
+      "id": "bsc",
+      "degree": "Bachelor of Science (B.Sc.)",
+      "field": "Botany",
+      "institution": "Banaras Hindu University",
+      "university": "BHU Varanasi",
+      "location": "Varanasi, Uttar Pradesh, India",
+      "duration": "2017 – 2020",
+      "startYear": 2017,
+      "endYear": 2020,
+      "status": "Completed",
+      "cgpa": null,
+      "thesis": null,
+      "supervisor": null,
+      "achievements": [
+        "Solid grounding in plant biology and botany",
+        "Foundation for later environmental and biotechnology research"
+      ],
+      "coursework": ["Botany", "Plant Biology", "Biochemistry", "Ecology", "Genetics"],
+      "logo": "images/bhu-logo.png"
+    },
+    {
+      "id": "class12",
+      "degree": "Senior Secondary (Class XII)",
+      "field": "Science",
+      "institution": "Sunbeam School, Lahartara",
+      "university": "CBSE Board",
+      "location": "Varanasi, Uttar Pradesh, India",
+      "duration": "2016 – 2017",
+      "startYear": 2016,
+      "endYear": 2017,
+      "status": "Completed",
+      "cgpa": null,
+      "thesis": null,
+      "supervisor": null,
+      "achievements": [],
+      "coursework": ["Physics", "Chemistry", "Biology", "Mathematics", "English"],
+      "logo": ""
+    },
+    {
+      "id": "class10",
+      "degree": "Secondary (Class X)",
+      "field": "General Studies",
+      "institution": "DAV Public School, Bikramganj",
+      "university": "CBSE Board",
+      "location": "Bikramganj, Bihar, India",
+      "duration": "2014 – 2015",
+      "startYear": 2014,
+      "endYear": 2015,
+      "status": "Completed",
+      "cgpa": null,
+      "thesis": null,
+      "supervisor": null,
+      "achievements": [],
+      "coursework": ["Science", "Mathematics", "Social Science", "English", "Hindi"],
+      "logo": ""
+    }
+  ],
+
+  "experience": [
+    {
+      "id": "nit-phd",
+      "role": "Doctoral Researcher",
+      "institution": "Department of Biotechnology, NIT Durgapur",
+      "location": "Durgapur, West Bengal, India",
+      "duration": "2022 – Present",
+      "startDate": "2022-01",
+      "endDate": null,
+      "type": "Research",
+      "description": "Conducting doctoral research at the intersection of biotechnology, bioprocess engineering, and environmental sciences. Applying computational and analytical tools to address biological questions with translational health impact.",
+      "responsibilities": [
+        "Designing and executing research on environmental stressors and biological processes",
+        "Performing bibliometric analysis using VOSviewer to map research landscapes",
+        "Applying network biology methods to model biological interaction networks",
+        "Statistical analysis and data visualisation using RStudio",
+        "Engaging in interdisciplinary collaborations within and outside the department",
+        "Contributing to manuscript preparation and academic writing"
+      ],
+      "technologies": ["VOSviewer", "RStudio", "Network Biology", "Bioprocess Tools", "MS Office"],
+      "achievements": [
+        "Actively contributing to ongoing doctoral thesis",
+        "Building expertise in computational biology and bibliometrics"
+      ]
+    },
+    {
+      "id": "jnu-msc",
+      "role": "M.Sc. Research Scholar",
+      "institution": "School of Environmental Sciences, JNU",
+      "location": "New Delhi, India",
+      "duration": "2020 – 2022",
+      "startDate": "2020-07",
+      "endDate": "2022-06",
+      "type": "Research",
+      "description": "Pursued advanced studies in environmental sciences at Jawaharlal Nehru University, focusing on environmental stressors, ecological dynamics, and their biological and health implications.",
+      "responsibilities": [
+        "Studied advanced topics in environmental chemistry and ecology",
+        "Conducted literature reviews and academic writing",
+        "Participated in seminars, symposia, and academic discussions",
+        "Developed research skills in environmental data analysis"
+      ],
+      "technologies": ["Environmental Analytical Methods", "Data Analysis", "Academic Research Tools"],
+      "achievements": [
+        "Completed M.Sc. in Environmental Sciences from a premier institution",
+        "Developed strong analytical and critical thinking skills"
+      ]
+    },
+    {
+      "id": "bhu-bsc",
+      "role": "B.Sc. Student Researcher",
+      "institution": "Banaras Hindu University",
+      "location": "Varanasi, Uttar Pradesh, India",
+      "duration": "2017 – 2020",
+      "startDate": "2017-07",
+      "endDate": "2020-05",
+      "type": "Academic",
+      "description": "Completed undergraduate education in Botany and Plant Biology at one of India's oldest and most respected universities, building a strong scientific foundation for future research.",
+      "responsibilities": [
+        "Studied plant biology, ecology, and biochemistry",
+        "Participated in laboratory practicals and field studies",
+        "Developed foundational research and analytical skills"
+      ],
+      "technologies": ["Plant Biology Techniques", "Microscopy", "Field Research Methods"],
+      "achievements": [
+        "Built strong foundation in plant biology and environmental sciences"
+      ]
+    }
+  ],
+
+  "researchInterests": [
+    {
+      "id": "bioprocess",
+      "title": "Biotechnology & Bioprocess Engineering",
+      "icon": "fas fa-flask",
+      "color": "#6366f1",
+      "description": "Exploring biological systems and bioprocess strategies that can be harnessed or engineered for industrial, medical, and environmental applications, with a focus on stress-response pathways.",
+      "keywords": ["Bioprocess Engineering", "Fermentation", "Biological Systems", "Biotransformation", "Scale-up"]
+    },
+    {
+      "id": "environmental",
+      "title": "Environmental Sciences & Stressors",
+      "icon": "fas fa-leaf",
+      "color": "#10b981",
+      "description": "Investigating how environmental stressors — including pollutants, climate change variables, and ecological disruptions — interact with biological systems at molecular and organismal levels.",
+      "keywords": ["Environmental Stress", "Pollution Biology", "Ecology", "Climate Change", "Ecotoxicology"]
+    },
+    {
+      "id": "network-biology",
+      "title": "Network Biology",
+      "icon": "fas fa-project-diagram",
+      "color": "#f59e0b",
+      "description": "Applying network science approaches to model biological interaction networks, identify key regulatory nodes, and understand how perturbations propagate through living systems.",
+      "keywords": ["Protein-Protein Interactions", "Gene Networks", "Systems Biology", "Network Analysis", "Pathway Mapping"]
+    },
+    {
+      "id": "bibliometrics",
+      "title": "Bibliometrics & Knowledge Mapping",
+      "icon": "fas fa-chart-bar",
+      "color": "#3b82f6",
+      "description": "Using tools like VOSviewer to perform systematic bibliometric analysis, identify research trends, map collaboration networks, and uncover emerging frontiers in biotechnology and environmental research.",
+      "keywords": ["VOSviewer", "Bibliometric Analysis", "Co-citation", "Research Mapping", "Systematic Review"]
+    },
+    {
+      "id": "human-health",
+      "title": "Environment–Health Interface",
+      "icon": "fas fa-heartbeat",
+      "color": "#f43f5e",
+      "description": "Studying the mechanisms through which environmental exposures translate into human health outcomes, bridging environmental biology with biomedical sciences for translational applications.",
+      "keywords": ["Translational Research", "Environmental Health", "Biomarkers", "Exposure Biology", "Disease Mechanisms"]
+    },
+    {
+      "id": "plant-biology",
+      "title": "Plant Biology & Botany",
+      "icon": "fas fa-seedling",
+      "color": "#8b5cf6",
+      "description": "Drawing from a foundational background in botany and plant biology to understand plant responses to environmental stressors and their applications in bioremediation and sustainable biotechnology.",
+      "keywords": ["Plant Stress Responses", "Phytoremediation", "Plant Biochemistry", "Botany", "Sustainable Biology"]
+    }
+  ],
+
+  "publications": [
+    {
+      "id": "pub1",
+      "title": "Bibliometric Analysis of Environmental Stress Research in Biotechnology: Trends, Gaps, and Future Directions",
+      "authors": ["Kumari N", "Co-author A", "Co-author B"],
+      "journal": "To be updated",
+      "year": 2024,
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "doi": "",
+      "pmid": "",
+      "publisher": "To be updated",
+      "type": "Journal Article",
+      "impactFactor": null,
+      "abstract": "A comprehensive bibliometric analysis using VOSviewer mapping the global research landscape of environmental stress in biotechnology, identifying key research clusters, collaboration networks, and emerging thematic frontiers.",
+      "keywords": ["Bibliometrics", "VOSviewer", "Environmental Stress", "Biotechnology", "Systematic Review"],
+      "links": { "doi": "", "pdf": "", "researchgate": "", "pubmed": "" },
+      "citations": 0,
+      "featured": true
+    },
+    {
+      "id": "pub2",
+      "title": "Network Biology Approaches to Understanding Environmental Stress-Response Pathways",
+      "authors": ["Kumari N", "Co-author A"],
+      "journal": "To be updated",
+      "year": 2023,
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "doi": "",
+      "pmid": "",
+      "publisher": "To be updated",
+      "type": "Journal Article",
+      "impactFactor": null,
+      "abstract": "Application of network biology tools to construct and analyse stress-response interaction networks, identifying key regulatory nodes and their biological relevance in environmental stress contexts.",
+      "keywords": ["Network Biology", "Stress Response", "Biological Networks", "Environmental Biology"],
+      "links": { "doi": "", "pdf": "", "researchgate": "", "pubmed": "" },
+      "citations": 0,
+      "featured": true
+    },
+    {
+      "id": "pub3",
+      "title": "Environmental Stressors and Human Health: A Systematic Review and Pathway Analysis",
+      "authors": ["Kumari N", "Co-author A", "Co-author B", "Co-author C"],
+      "journal": "To be updated",
+      "year": 2023,
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "doi": "",
+      "pmid": "",
+      "publisher": "To be updated",
+      "type": "Review Article",
+      "impactFactor": null,
+      "abstract": "A systematic review synthesising current evidence on molecular mechanisms connecting environmental stressors to human health outcomes, with a focus on biological pathway perturbations and translational implications.",
+      "keywords": ["Environmental Health", "Systematic Review", "Biological Pathways", "Human Health", "Translational Research"],
+      "links": { "doi": "", "pdf": "", "researchgate": "", "pubmed": "" },
+      "citations": 0,
+      "featured": false
+    }
+  ],
+
+  "projects": [
+    {
+      "id": "proj1",
+      "title": "Bibliometric Mapping of Biotechnology & Environmental Stress Research",
+      "shortDescription": "Systematic VOSviewer-based bibliometric analysis to map the global knowledge landscape of environmental stress in biotechnology.",
+      "description": "This project applies VOSviewer and bibliometric methods to analyse thousands of publications from Scopus and Web of Science, constructing co-citation networks, keyword co-occurrence maps, and institutional collaboration networks. The aim is to identify research gaps, emerging trends, and key contributors in the biotechnology–environmental stress domain.",
+      "image": "images/gallery/project1.jpg",
+      "tags": ["Bibliometrics", "VOSviewer", "Biotechnology", "Computational"],
+      "technologies": ["VOSviewer", "RStudio", "Scopus", "Web of Science", "R (bibliometrix)"],
+      "methodology": "Database search and data extraction from Scopus/WoS; data cleaning and normalisation; VOSviewer network construction (co-citation, keyword co-occurrence, bibliographic coupling); trend analysis in R.",
+      "status": "Ongoing",
+      "duration": "2022 – Present",
+      "fundingSource": "NIT Durgapur Doctoral Fellowship",
+      "results": "Identified major research clusters and knowledge gaps; mapped top contributing countries, institutions, and journals; manuscript in preparation.",
+      "links": { "github": "", "demo": "", "paper": "" },
+      "featured": true
+    },
+    {
+      "id": "proj2",
+      "title": "Network Biology Analysis of Environmental Stress-Response Pathways",
+      "shortDescription": "Construction and analysis of biological interaction networks to understand how environmental stressors perturb cellular pathways.",
+      "description": "Using protein-protein interaction databases (STRING, BioGRID) and gene expression data, this project constructs and analyses biological networks underlying stress-response mechanisms. Network topology metrics identify hub genes and critical regulatory nodes relevant to environmental stress.",
+      "image": "images/gallery/project2.jpg",
+      "tags": ["Network Biology", "Bioinformatics", "Environmental Biology"],
+      "technologies": ["RStudio", "Cytoscape", "STRING Database", "BioGRID", "igraph (R)"],
+      "methodology": "Network construction from curated interaction databases; topology analysis (degree, betweenness centrality, clustering coefficient); GO and pathway enrichment analysis; identification of hub and bottleneck nodes.",
+      "status": "Ongoing",
+      "duration": "2023 – Present",
+      "fundingSource": "NIT Durgapur Doctoral Fellowship",
+      "results": "Identified key regulatory hubs in stress-response networks; enrichment analysis revealed stress-responsive biological processes; results being prepared for publication.",
+      "links": { "github": "", "demo": "", "paper": "" },
+      "featured": true
+    },
+    {
+      "id": "proj3",
+      "title": "Environmental Stressors and Human Health: Systematic Review",
+      "shortDescription": "A comprehensive review synthesising molecular and epidemiological evidence linking environmental exposures to health outcomes.",
+      "description": "A PRISMA-guided systematic review analysing literature on the biological mechanisms through which environmental stressors — including air pollutants, heavy metals, and climate-related exposures — affect human health at cellular and molecular levels.",
+      "image": "images/gallery/project3.jpg",
+      "tags": ["Environmental Health", "Systematic Review", "Translational Research"],
+      "technologies": ["RStudio", "PRISMA", "Covidence", "EndNote", "MS Excel"],
+      "methodology": "PRISMA-guided systematic literature search; PICO framework; data extraction and quality assessment; narrative and quantitative synthesis; RStudio for statistical summaries.",
+      "status": "Completed",
+      "duration": "2022 – 2023",
+      "fundingSource": "Academic Research Initiative",
+      "results": "Synthesised evidence from 80+ primary studies; identified 5 major mechanistic pathways; manuscript under review.",
+      "links": { "github": "", "demo": "", "paper": "" },
+      "featured": false
+    }
+  ],
+
+  "skills": {
+    "research": [
+      { "name": "Experimental Design",   "level": 85, "color": "#6366f1" },
+      { "name": "Scientific Writing",    "level": 88, "color": "#6366f1" },
+      { "name": "Literature Review",     "level": 92, "color": "#6366f1" },
+      { "name": "Critical Thinking",     "level": 90, "color": "#6366f1" },
+      { "name": "Data Interpretation",   "level": 85, "color": "#6366f1" }
+    ],
+    "programming": [
+      { "name": "RStudio / R",           "level": 82, "color": "#3b82f6" },
+      { "name": "VOSviewer",             "level": 90, "color": "#3b82f6" },
+      { "name": "MS Excel / Office",     "level": 88, "color": "#3b82f6" },
+      { "name": "Cytoscape",             "level": 72, "color": "#3b82f6" },
+      { "name": "Python (Basic)",        "level": 55, "color": "#3b82f6" }
+    ],
+    "bioinformatics": [
+      { "name": "Bibliometric Analysis", "level": 90, "color": "#10b981" },
+      { "name": "Network Biology",       "level": 85, "color": "#10b981" },
+      { "name": "Database Mining",       "level": 80, "color": "#10b981" },
+      { "name": "Pathway Analysis",      "level": 78, "color": "#10b981" },
+      { "name": "Statistical Analysis",  "level": 82, "color": "#10b981" }
+    ],
+    "soft": [
+      { "name": "Collaboration",         "level": 95, "color": "#f59e0b" },
+      { "name": "Communication",         "level": 90, "color": "#f59e0b" },
+      { "name": "Problem Solving",       "level": 88, "color": "#f59e0b" },
+      { "name": "Adaptability",          "level": 92, "color": "#f59e0b" },
+      { "name": "Time Management",       "level": 85, "color": "#f59e0b" }
+    ]
+  },
+
+  "laboratorySkills": [
+    { "name": "VOSviewer",              "icon": "fas fa-chart-network", "category": "Computational" },
+    { "name": "RStudio / R",            "icon": "fas fa-code",          "category": "Computational" },
+    { "name": "Network Biology",        "icon": "fas fa-project-diagram","category": "Computational" },
+    { "name": "Bibliometric Analysis",  "icon": "fas fa-chart-bar",     "category": "Analytical"    },
+    { "name": "PCR / RT-PCR",           "icon": "fas fa-vials",         "category": "Molecular"     },
+    { "name": "Gel Electrophoresis",    "icon": "fas fa-align-center",   "category": "Molecular"     },
+    { "name": "DNA / RNA Isolation",    "icon": "fas fa-dna",           "category": "Molecular"     },
+    { "name": "Spectrophotometry",      "icon": "fas fa-eye-dropper",   "category": "Analytical"    },
+    { "name": "Microscopy",             "icon": "fas fa-microscope",    "category": "Imaging"       },
+    { "name": "Systematic Review",      "icon": "fas fa-search",        "category": "Analytical"    },
+    { "name": "Cytoscape",              "icon": "fas fa-sitemap",       "category": "Computational" },
+    { "name": "Environmental Sampling", "icon": "fas fa-flask",         "category": "Field"         },
+    { "name": "Statistical Modelling",  "icon": "fas fa-chart-line",    "category": "Analytical"    },
+    { "name": "PRISMA / Systematic Review","icon":"fas fa-list-check",  "category": "Analytical"    }
+  ],
+
+  "technicalSkills": [
+    { "category": "Bibliometric & Network Tools", "items": ["VOSviewer", "Bibliometrix (R)", "Cytoscape", "STRING DB", "BioGRID", "Gephi"] },
+    { "category": "Statistical & Data Analysis",  "items": ["RStudio", "R (ggplot2, igraph, dplyr)", "MS Excel", "GraphPad Prism", "SPSS (Basic)"] },
+    { "category": "Literature & Review Tools",    "items": ["Scopus", "Web of Science", "PubMed", "Mendeley", "Zotero", "Covidence"] },
+    { "category": "Databases & Platforms",        "items": ["NCBI", "UniProt", "KEGG", "Reactome", "Gene Ontology", "DisGeNET"] },
+    { "category": "Scientific Writing & Office",  "items": ["MS Word", "LaTeX", "Overleaf", "PowerPoint", "Canva", "Adobe Reader"] }
+  ],
+
+  "testScores": [
+    {
+      "id": "ts1",
+      "exam": "UGC-NET Environmental Sciences",
+      "score": "162",
+      "maxScore": "300",
+      "date": "June 2023",
+      "association": "Jawaharlal Nehru University",
+      "description": "Qualified for Assistant Professor",
+      "qualified": true,
+      "icon": "fas fa-graduation-cap"
+    },
+    {
+      "id": "ts2",
+      "exam": "CUET-PG",
+      "score": "229",
+      "maxScore": "300",
+      "date": "September 2022",
+      "association": "Jawaharlal Nehru University",
+      "description": "Environmental Science (PGQP22)",
+      "qualified": true,
+      "icon": "fas fa-university"
+    },
+    {
+      "id": "ts3",
+      "exam": "GAT-B 2022",
+      "score": "100",
+      "maxScore": null,
+      "date": "April 2022",
+      "association": "Banaras Hindu University",
+      "description": "Graduate Aptitude Test in Biotechnology",
+      "qualified": true,
+      "icon": "fas fa-flask"
+    },
+    {
+      "id": "ts4",
+      "exam": "GATE XL 2022",
+      "score": "472",
+      "maxScore": "1000",
+      "date": "February 2022",
+      "association": "Banaras Hindu University",
+      "description": "",
+      "qualified": true,
+      "icon": "fas fa-atom"
+    },
+    {
+      "id": "ts5",
+      "exam": "IIT JAM Biotechnology 2022",
+      "score": "42.3",
+      "maxScore": "100",
+      "date": "February 2022",
+      "association": "Banaras Hindu University",
+      "description": "Joint Admission Test for Masters conducted by IIT",
+      "qualified": true,
+      "icon": "fas fa-microscope"
+    }
+  ],
+
+  "certifications": [
+    {
+      "id": "cert1",
+      "title": "Research Methodology & Scientific Writing",
+      "provider": "Online Course / Workshop",
+      "date": "2023",
+      "expiryDate": null,
+      "credentialId": "",
+      "link": "",
+      "icon": "fas fa-pen-nib",
+      "color": "#6366f1"
+    },
+    {
+      "id": "cert2",
+      "title": "Bibliometric Analysis using VOSviewer",
+      "provider": "Self-directed / Academic Training",
+      "date": "2022",
+      "expiryDate": null,
+      "credentialId": "",
+      "link": "",
+      "icon": "fas fa-chart-bar",
+      "color": "#10b981"
+    },
+    {
+      "id": "cert3",
+      "title": "Network Biology & Systems Analysis",
+      "provider": "Academic Workshop / Online Training",
+      "date": "2023",
+      "expiryDate": null,
+      "credentialId": "",
+      "link": "",
+      "icon": "fas fa-project-diagram",
+      "color": "#3b82f6"
+    },
+    {
+      "id": "cert4",
+      "title": "Data Analysis with R and RStudio",
+      "provider": "Online Course",
+      "date": "2022",
+      "expiryDate": null,
+      "credentialId": "",
+      "link": "",
+      "icon": "fas fa-code",
+      "color": "#f59e0b"
+    },
+    {
+      "id": "cert5",
+      "title": "Introduction to Environmental Engineering and Science — Fundamental and Sustainability Concept",
+      "provider": "NPTEL — IIT Kharagpur",
+      "date": "May 2025",
+      "expiryDate": null,
+      "credentialId": "",
+      "link": "",
+      "icon": "fas fa-leaf",
+      "color": "#10b981"
+    },
+    {
+      "id": "cert6",
+      "title": "Applied Environmental Microbiology",
+      "provider": "NPTEL — IIT Roorkee",
+      "date": "May 2025",
+      "expiryDate": null,
+      "credentialId": "",
+      "link": "",
+      "icon": "fas fa-bacterium",
+      "color": "#3b82f6"
+    },
+    {
+      "id": "cert7",
+      "title": "CRISPR & Genetics",
+      "provider": "Alma Fiesta — IIT Bhubaneswar",
+      "date": "January 2023",
+      "expiryDate": null,
+      "credentialId": "",
+      "link": "",
+      "icon": "fas fa-dna",
+      "color": "#f43f5e"
+    },
+    {
+      "id": "cert8",
+      "title": "Remote Sensing and Geospatial Analysis",
+      "provider": "Udemy",
+      "date": "January 2023",
+      "expiryDate": null,
+      "credentialId": "",
+      "link": "",
+      "icon": "fas fa-satellite-dish",
+      "color": "#f59e0b"
+    }
+  ],
+
+  "achievements": [
+    {
+      "icon": "fas fa-graduation-cap",
+      "category": "National Exam",
+      "color": "#6366f1",
+      "title": "UGC-NET Qualified",
+      "detail": "Environmental Sciences · Score 162/300",
+      "meta": "June 2023 · Eligible for Assistant Professor"
+    },
+    {
+      "icon": "fas fa-university",
+      "category": "National Exam",
+      "color": "#6366f1",
+      "title": "CUET-PG Qualified",
+      "detail": "Environmental Science, JNU · Score 229/300",
+      "meta": "September 2022"
+    },
+    {
+      "icon": "fas fa-flask",
+      "category": "National Exam",
+      "color": "#6366f1",
+      "title": "GAT-B 2022 Qualified",
+      "detail": "Graduate Aptitude Test in Biotechnology · Score 100",
+      "meta": "April 2022 · BHU"
+    },
+    {
+      "icon": "fas fa-atom",
+      "category": "National Exam",
+      "color": "#6366f1",
+      "title": "GATE XL 2022",
+      "detail": "Score 472/1000",
+      "meta": "February 2022 · BHU"
+    },
+    {
+      "icon": "fas fa-microscope",
+      "category": "National Exam",
+      "color": "#6366f1",
+      "title": "IIT JAM Biotechnology 2022",
+      "detail": "Score 42.3/100",
+      "meta": "February 2022 · BHU"
+    },
+    {
+      "icon": "fas fa-leaf",
+      "category": "Certification",
+      "color": "#10b981",
+      "title": "NPTEL — Environmental Engineering",
+      "detail": "IIT Kharagpur · Fundamental & Sustainability Concepts",
+      "meta": "May 2025"
+    },
+    {
+      "icon": "fas fa-bacterium",
+      "category": "Certification",
+      "color": "#10b981",
+      "title": "NPTEL — Applied Environmental Microbiology",
+      "detail": "IIT Roorkee",
+      "meta": "May 2025"
+    },
+    {
+      "icon": "fas fa-dna",
+      "category": "Certification",
+      "color": "#f43f5e",
+      "title": "CRISPR & Genetics",
+      "detail": "Alma Fiesta · IIT Bhubaneswar",
+      "meta": "January 2023"
+    },
+    {
+      "icon": "fas fa-satellite-dish",
+      "category": "Certification",
+      "color": "#f59e0b",
+      "title": "Remote Sensing & Geospatial Analysis",
+      "detail": "Udemy",
+      "meta": "January 2023"
+    },
+    {
+      "icon": "fas fa-flask",
+      "category": "Education",
+      "color": "#8b5cf6",
+      "title": "PhD — Biotechnology",
+      "detail": "National Institute of Technology Durgapur",
+      "meta": "2022 – Present"
+    },
+    {
+      "icon": "fas fa-seedling",
+      "category": "Education",
+      "color": "#8b5cf6",
+      "title": "M.Sc. — Environmental Sciences",
+      "detail": "Jawaharlal Nehru University, New Delhi",
+      "meta": "2020 – 2022"
+    },
+    {
+      "icon": "fas fa-leaf",
+      "category": "Education",
+      "color": "#8b5cf6",
+      "title": "B.Sc. — Botany",
+      "detail": "Banaras Hindu University, Varanasi",
+      "meta": "2017 – 2020"
+    }
+  ],
+
+  "awards": [
+    {
+      "id": "award1",
+      "title": "Doctoral Research Fellowship",
+      "organization": "National Institute of Technology Durgapur",
+      "year": "2022",
+      "type": "Fellowship",
+      "description": "Fellowship supporting doctoral research in biotechnology at NIT Durgapur, one of India's premier National Institutes of Technology.",
+      "amount": "To be updated",
+      "icon": "fas fa-medal"
+    },
+    {
+      "id": "award2",
+      "title": "Academic Merit Recognition",
+      "organization": "Jawaharlal Nehru University",
+      "year": "2022",
+      "type": "Award",
+      "description": "Recognition for academic performance and research engagement during M.Sc. studies at JNU New Delhi.",
+      "amount": null,
+      "icon": "fas fa-star"
+    }
+  ],
+
+  "patents": [],
+
+  "teaching": [
+    {
+      "id": "teach1",
+      "role": "Research Mentor",
+      "course": "Junior Researcher Guidance",
+      "courseCode": "",
+      "institution": "NIT Durgapur",
+      "semester": "2022 – Present",
+      "level": "Undergraduate / Junior Researchers",
+      "studentsCount": 5,
+      "description": "Guiding junior researchers and students on research methodologies, use of bibliometric tools (VOSviewer), and scientific writing practices.",
+      "responsibilities": [
+        "Orienting students to systematic literature review methods",
+        "Teaching VOSviewer for bibliometric analysis",
+        "Guiding students in data interpretation and academic writing",
+        "Providing feedback on research presentations and reports"
+      ]
+    }
+  ],
+
+  "memberships": [
+    {
+      "id": "mem1",
+      "organization": "Society of Biological Sciences (Affiliated)",
+      "role": "Student Member",
+      "since": "2022",
+      "icon": "fas fa-users"
+    },
+    {
+      "id": "mem2",
+      "organization": "NIT Durgapur Research Community",
+      "role": "Doctoral Scholar",
+      "since": "2022",
+      "icon": "fas fa-university"
+    },
+    {
+      "id": "mem3",
+      "organization": "JNU Alumni Network",
+      "role": "Alumni Member",
+      "since": "2022",
+      "icon": "fas fa-graduation-cap"
+    }
+  ],
+
+  "conferencePresentations": [
+    {
+      "id": "conf1",
+      "title": "Bibliometric Mapping of Environmental Stress Research in Biotechnology",
+      "conference": "National Symposium on Biotechnology",
+      "location": "India",
+      "date": "2024",
+      "type": "Oral Presentation",
+      "abstract": "Presented findings from VOSviewer-based bibliometric analysis mapping global knowledge networks in environmental biotechnology.",
+      "award": null,
+      "certificate": ""
+    },
+    {
+      "id": "conf2",
+      "title": "Network Biology Approaches to Environmental Stress-Response Pathways",
+      "conference": "National Conference on Biological Sciences",
+      "location": "India",
+      "date": "2023",
+      "type": "Poster Presentation",
+      "abstract": "Poster on network construction and analysis of biological pathways perturbed by environmental stressors.",
+      "award": null,
+      "certificate": ""
+    },
+    {
+      "id": "conf3",
+      "title": "Environmental Stressors and Human Health: A Systematic Review",
+      "conference": "Annual Environmental Science Symposium",
+      "location": "India",
+      "date": "2023",
+      "type": "Oral Presentation",
+      "abstract": "Oral presentation summarising findings of a PRISMA-guided systematic review on environmental exposure and health outcomes.",
+      "award": null,
+      "certificate": ""
+    },
+    {
+      "id": "conf4",
+      "title": "Biotechnology and Environment: Bridging the Gap",
+      "conference": "Interdisciplinary Research Forum",
+      "location": "India",
+      "date": "2022",
+      "type": "Oral Presentation",
+      "abstract": "Introductory presentation on the interdisciplinary research agenda at NIT Durgapur bridging biotechnology and environmental science.",
+      "award": null,
+      "certificate": ""
+    }
+  ],
+
+  "workshops": [
+    {
+      "id": "ws1",
+      "title": "VOSviewer for Bibliometric Analysis",
+      "organizer": "Academic Training Programme",
+      "location": "India / Online",
+      "date": "2022",
+      "duration": "2 days",
+      "type": "Hands-on Workshop",
+      "role": "Participant"
+    },
+    {
+      "id": "ws2",
+      "title": "Network Biology and Systems Analysis",
+      "organizer": "Bioinformatics Training Workshop",
+      "location": "India / Online",
+      "date": "2023",
+      "duration": "3 days",
+      "type": "Training Workshop",
+      "role": "Participant"
+    },
+    {
+      "id": "ws3",
+      "title": "Research Methodology and Scientific Communication",
+      "organizer": "NIT Durgapur",
+      "location": "Durgapur, West Bengal, India",
+      "date": "2022",
+      "duration": "2 days",
+      "type": "Training Workshop",
+      "role": "Participant"
+    },
+    {
+      "id": "ws4",
+      "title": "Data Analysis using RStudio",
+      "organizer": "Online Training Programme",
+      "location": "Virtual (Online)",
+      "date": "2023",
+      "duration": "5 days",
+      "type": "Hands-on Workshop",
+      "role": "Participant"
+    }
+  ],
+
+  "gallery": [
+    {
+      "id": "gal0",
+      "title": "Niharika Kumari — PhD Scholar",
+      "image": "images/gallery/profilepic.png",
+      "caption": "Niharika Kumari, Doctoral Candidate, Department of Biotechnology, NIT Durgapur.",
+      "category": "Profile",
+      "year": 2024
+    },
+    {
+      "id": "gal1",
+      "title": "Research at NIT Durgapur",
+      "image": "images/gallery/lab1.jpg",
+      "caption": "Engaged in doctoral research at the Department of Biotechnology, NIT Durgapur.",
+      "category": "Lab Work",
+      "year": 2024
+    },
+    {
+      "id": "gal2",
+      "title": "VOSviewer Bibliometric Analysis",
+      "image": "images/gallery/project1.jpg",
+      "caption": "Knowledge network mapping using VOSviewer — visualising research clusters in environmental biotechnology.",
+      "category": "Research",
+      "year": 2024
+    },
+    {
+      "id": "gal3",
+      "title": "Conference Presentation",
+      "image": "images/gallery/conf1.jpg",
+      "caption": "Presenting research findings at a national symposium on biotechnology.",
+      "category": "Conferences",
+      "year": 2024
+    },
+    {
+      "id": "gal4",
+      "title": "JNU Campus — Environmental Sciences",
+      "image": "images/gallery/conf2.jpg",
+      "caption": "At Jawaharlal Nehru University during M.Sc. in Environmental Sciences.",
+      "category": "Academic Life",
+      "year": 2022
+    },
+    {
+      "id": "gal5",
+      "title": "Network Biology Analysis",
+      "image": "images/gallery/project2.jpg",
+      "caption": "Constructing and analysing biological interaction networks using Cytoscape and R.",
+      "category": "Research",
+      "year": 2023
+    },
+    {
+      "id": "gal6",
+      "title": "BHU Campus — Botany Department",
+      "image": "images/gallery/lab2.jpg",
+      "caption": "During undergraduate studies at Banaras Hindu University, Varanasi.",
+      "category": "Academic Life",
+      "year": 2020
+    },
+    {
+      "id": "gal7",
+      "title": "Research Team — NIT Durgapur",
+      "image": "images/gallery/team1.jpg",
+      "caption": "With the research group at Department of Biotechnology, NIT Durgapur.",
+      "category": "Team",
+      "year": 2023
+    },
+    {
+      "id": "gal8",
+      "title": "Poster Presentation",
+      "image": "images/gallery/conf3.jpg",
+      "caption": "Poster presentation at a national conference on biological sciences.",
+      "category": "Conferences",
+      "year": 2023
+    }
+  ],
+
+  "blogs": [
+    {
+      "id": "blog1",
+      "title": "Why Bibliometrics Matters: Using VOSviewer to Navigate the Ocean of Scientific Literature",
+      "excerpt": "The volume of scientific publications doubles every nine years. Bibliometric tools like VOSviewer offer researchers a compass — mapping knowledge landscapes, revealing hidden clusters, and pointing to the whitespace where new discoveries wait.",
+      "content": "",
+      "date": "April 2024",
+      "readTime": "7 min read",
+      "tags": ["VOSviewer", "Bibliometrics", "Research Tools"],
+      "image": "images/gallery/blog1.jpg",
+      "link": "#"
+    },
+    {
+      "id": "blog2",
+      "title": "Network Biology: Seeing Life as a System, Not Just a Sum of Parts",
+      "excerpt": "Every cell is a city, and every protein a citizen with relationships. Network biology gives us the map. Here's how thinking in networks is transforming our understanding of environmental stress and disease.",
+      "content": "",
+      "date": "January 2024",
+      "readTime": "6 min read",
+      "tags": ["Network Biology", "Systems Biology", "Environmental Health"],
+      "image": "images/gallery/blog2.jpg",
+      "link": "#"
+    },
+    {
+      "id": "blog3",
+      "title": "From Botany to Bioprocess: My Interdisciplinary PhD Journey",
+      "excerpt": "Starting with leaves and roots in Varanasi, moving through environmental sciences in Delhi, and now diving into biotechnology in Durgapur — here is what I have learnt about following curiosity across disciplines.",
+      "content": "",
+      "date": "October 2023",
+      "readTime": "9 min read",
+      "tags": ["PhD Life", "Interdisciplinary Research", "Science Journey"],
+      "image": "images/gallery/blog3.jpg",
+      "link": "#"
+    }
+  ],
+
+  "testimonials": [
+    {
+      "id": "test1",
+      "name": "PhD Supervisor",
+      "designation": "Professor, Department of Biotechnology",
+      "institution": "NIT Durgapur",
+      "image": "",
+      "quote": "Niharika demonstrates a strong aptitude for interdisciplinary research, combining analytical rigour with genuine intellectual curiosity. Her proficiency with bibliometric and network biology tools brings a distinctive computational perspective to our laboratory.",
+      "rating": 5
+    },
+    {
+      "id": "test2",
+      "name": "Research Colleague",
+      "designation": "Fellow Doctoral Scholar",
+      "institution": "NIT Durgapur",
+      "image": "",
+      "quote": "Working alongside Niharika has been genuinely enriching. Her enthusiasm for bridging environmental science with biotechnology, and her willingness to collaborate openly, makes her an invaluable part of our research community.",
+      "rating": 5
+    }
+  ],
+
+  "languages": [
+    { "language": "Hindi",   "proficiency": "Native",                  "level": 100 },
+    { "language": "English", "proficiency": "Professional Proficiency","level": 90  },
+    { "language": "Bhojpuri","proficiency": "Native / Regional",       "level": 100 }
+  ],
+
+  "socialLinks": {
+    "linkedin":  "https://www.linkedin.com/in/niharika-k-640ab1200",
+    "twitter":   "https://twitter.com/nihu0202",
+    "instagram": "https://instagram.com/nihu_0202",
+    "github":    "",
+    "googleScholar": "",
+    "orcid":         "",
+    "researchgate":  ""
+  },
+
+  "contact": {
+    "email": "niharikasinghoffline3@gmail.com",
+    "phone": "+91-XXXXXXXXXX",
+    "officeAddress": "Department of Biotechnology, NIT Durgapur",
+    "institutionAddress": "National Institute of Technology Durgapur, Mahatma Gandhi Avenue, Durgapur – 713209, West Bengal, India",
+    "officeHours": "Monday – Friday, 10:00 AM – 5:00 PM IST",
+    "mapEmbedPlaceholder": true,
+    "responseTime": "Typically responds within 24–48 hours"
+  },
+
+  "resume": {
+    "file": "assets/resume.pdf",
+    "label": "Download CV",
+    "lastUpdated": "2024"
+  },
+
+  "siteSettings": {
+    "defaultTheme": "dark",
+    "accentColor": "#6366f1",
+    "navbarFixed": true,
+    "particlesEnabled": true,
+    "customCursorEnabled": true,
+    "progressBarEnabled": true,
+    "loadingScreenEnabled": true
+  }
+}
